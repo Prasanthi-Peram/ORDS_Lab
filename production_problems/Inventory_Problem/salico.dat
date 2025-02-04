@@ -1,0 +1,7 @@
+NbPeriods = 4;
+Demand = [ 40, 60, 75, 25 ];
+RegularCost = 400;
+ExtraCost = 450;
+Capacity = 40;
+Inventory = 10;
+InventoryCost = 20;
