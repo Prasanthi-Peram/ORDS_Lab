@@ -8,6 +8,7 @@
 // Use, duplication or disclosure restricted by GSA ADP Schedule
 // Contract with IBM Corp.
 // --------------------------------------------------------------------------
+//Card is used to obtain the cardinality and asSet is used to convert an array or range to a assert
 
 int NbWorkers = ...;
 range Workers = 1..NbWorkers;
